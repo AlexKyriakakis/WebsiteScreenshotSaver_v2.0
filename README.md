@@ -1,0 +1,1 @@
+# WebsiteScreenshotSaver_v2.0
